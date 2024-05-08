@@ -3,7 +3,7 @@ import os, binascii
 with open("REF.AVI", "rb") as r:
 	data = r.read()
 
-with open("AVSEQ02 (45).AVI", "rb") as r:
+with open("Corrupted.AVI", "rb") as r:
 	data_2 = r.read()
 
 
