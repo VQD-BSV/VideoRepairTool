@@ -6,7 +6,6 @@ with open("REF.AVI", "rb") as r:
 with open("Corrupted.AVI", "rb") as r:
 	data_2 = r.read()
 
-
 header = data.find(binascii.unhexlify('FFFFFFFFFF'))
 data_fix = data_2.find(binascii.unhexlify('FFFFFFFFFF'))
 
