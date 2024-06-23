@@ -24,6 +24,7 @@ Developed by Vu Quang Dai <BSVRecovery.vn@gmail.com>
 
 Enter File Path:
 ```
+"Y" is yes, "N" is no
 ```
 Encrypt ransomware Y/N:
 ```
