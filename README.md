@@ -1,5 +1,7 @@
 ## Software
 You can use it with video encrypted by ransomware, unclear video structures, and other cases. <br>
+Damaged : MP4, MOV <br>
+Ransomware: MP4, MOV, AVI
 
 🤔 HOW TO REPAIR MP4/MOV (ransomware) - No sample needed
 1. Search for "moov" in the file
