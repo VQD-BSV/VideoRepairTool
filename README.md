@@ -12,13 +12,25 @@ Ransomware: MP4, MOV, AVI
 Developed by Vu Quang Dai <BSVRecovery.vn@gmail.com>
 
 ## Usage
-- Choose file & click start (No sample needed)
-  - Can repair, if have "moov" (ransomware)
+```
+ _    ___     __              ____                   _
+| |  / (_)___/ /__  ____     / __ \___  ____  ____ _(_)____
+| | / / / __  / _ \/ __ \   / /_/ / _ \/ __ \/ __ `/ / ___/
+| |/ / / /_/ /  __/ /_/ /  / _, _/  __/ /_/ / /_/ / / /
+|___/_/\__,_/\___/\____/  /_/ |_|\___/ .___/\__,_/_/_/     v1.2.0
+                                    /_/
+                                        Developed by: Vu Quang Dai
 
-![image](https://github.com/VQD-BSV/VideoRepairTool/assets/127699283/73b45a7e-a50a-4799-a637-954bf241cfae)
 
-
-
+Enter File Path:
+```
+```
+Encrypt ransomware Y/N:
+```
+If it prints this, you need to find a sample file and a recording device
+```
+Enter File Path (REF):
+```
 
 ## Information
 [FFmpeg](https://ffmpeg.org/) | [recover_mp4](https://slydiman.me/eng/mmedia/recover_mp4.htm)
